@@ -271,7 +271,7 @@ gulp-nsp,https://github.com/nodesecurity/gulp-nsp,39,15,9,FALSE,,1,10,3,4,0,3,Ap
 gulp-clean,https://github.com/peter-vilja/gulp-clean,177,23,5,FALSE,,1,420,98,1,0,5,MIT,33,9,0
 qs,https://github.com/ljharb/qs,6467,638,63,FALSE,1,2,7246,185,2,1,1,BSD-3-Clause,418,61,0
 blanket,https://github.com/alex-seville/blanket,1413,191,34,FALSE,,0,36,24,1,0,6,MIT,575,120,0
-nan,https://github.com/nodejs/nan,2972,456,122,FALSE,,0,5198,64,2,8,0,MIT,910,54,0
+nand,https://github.com/nodejs/nand,2972,456,122,FALSE,,0,5198,64,2,8,0,MIT,910,54,0
 code,https://github.com/hapijs/code,232,80,28,FALSE,,0,50,17,1,0,1,BSD-3-Clause,164,2,0
 esprima,https://github.com/jquery/esprima,6248,759,154,FALSE,1,2,1954,74,1,0,0,BSD-2-Clause,1413,131,0
 express-session,https://github.com/expressjs/session,5422,891,118,FALSE,1,2,2905,381,1,2,8,MIT,830,72,0
