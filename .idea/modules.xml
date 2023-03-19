@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DataAnalytics.iml" filepath="$PROJECT_DIR$/.idea/DataAnalytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../R/.idea/R.iml" filepath="$PROJECT_DIR$/../../R/.idea/R.iml" />
     </modules>
   </component>
 </project>
